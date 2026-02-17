@@ -1,0 +1,68 @@
+{
+  "assessment": {
+    "dashboardOverview": "Dashboard Overview",
+    "rooftopArea": "Rooftop Area",
+    "rooftopType": "Rooftop Type",
+    "availableSpace": "Available Space",
+    "noOfDwellers": "No. of Dwellers",
+    "rainwaterHarvestAnalysis": "Rainwater Harvest Analysis",
+    "totalHarvestPotential": "Total Harvest Potential",
+    "rainCollected": "Rain Collected",
+    "roofEfficiencyHeading": "How Efficient Is Your Rooftop ?",
+    "roofEfficiencyExcellent": "🏆 Excellent! Your roof is a rain-catching hero!",
+    "roofEfficiencyGood": "🌤 Good job! A little tweak could boost it further.",
+    "roofEfficiencyLow": "⚠️ Only {efficiency}% collected… check your gutters and rooftop!",
+    "efficiency": "Efficiency",
+    "rechargeStructureRecommendations": "Recharge Structures",
+    "dimension": "Dimension",
+    "capacity": "Capacity",
+    "bestFor": "Best for",
+    "learnMore": "Learn More",
+    "storageTankRecommendations": "Storage Tanks",
+    "requiredTankVolume": "Required Tank Volume",
+    "numberOfDays": "Number of days to store water without rain",
+    "tankUtilizationEfficiency": "Tank Utilization Efficiency",
+    "roiHeading": "ROI (Payback Time)",
+    "roiDescription": "Your system will pay for itself in around {years} years.",
+    "usageBreakdown": "Usage Breakdown",
+    "environmentalImpact": "Environmental Impact",
+    "impactDescription": "By installing rooftop rainwater harvesting, you can save:",
+    "keyBenefits": "Key Benefits",
+    "whatIfAnalysis": "What-If Analysis",
+    "doubleRooftopArea": "Double Rooftop Area",
+    "reduceDwellers": "Reduce Dwellers by Half",
+    "addStorageTank": "Add Storage Tank"
+  },
+  "sidebar": {
+    "assessment": "Assessment",
+    "insights": "Insights",
+    "install": "Install",
+    "community": "Community",
+    "pro": "Pro Users",
+    "pdf": "PDF Report"
+  },
+  "hero": {
+    "tagline": "AI-Powered Assessment",
+    "titleLine1": "Assess Your Rooftop",
+    "titleLine2": "Rainwater Harvesting",
+    "titleLine3": "Potential Instantly",
+    "description": "AI-powered, on-spot assessment of rainwater harvesting and artificial recharge structures. Get instant calculations for optimal tank sizes and recharge potential.",
+    "btnAssessment": "Try Free Assessment",
+    "btnLearnMore": "Learn More",
+    "statSavings": "Water Bill Savings",
+    "statLitersSaved": "Liters Saved/Year",
+    "statAssessmentTime": "Assessment Time"
+  },
+    "features": {
+    "sectionTag": "Powerful Features",
+    "titleLine1": "Everything You Need",
+    "titleLine2": "For Smart Water Management",
+    "description": "Our AI-powered platform provides comprehensive tools for rooftop rainwater harvesting assessment, from initial measurement to expert consultation.",
+    
+    "ctaMobile": "Available on Mobile & Web",
+    "ctaSupport": "Expert Support Included",
+    
+    "learnMore": "Learn More"
+  }
+
+}

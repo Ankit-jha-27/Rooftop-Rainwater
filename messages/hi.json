@@ -1,0 +1,73 @@
+{
+  "assessment": {
+    "dashboardOverview": "डैशबोर्ड अवलोकन",
+    "rooftopArea": "छत का क्षेत्रफल",
+    "rooftopType": "छत का प्रकार",
+    "availableSpace": "उपलब्ध स्थान",
+    "noOfDwellers": "निवासियों की संख्या",
+    "rainwaterHarvestAnalysis": "वर्षा जल संचयन विश्लेषण",
+    "totalHarvestPotential": "कुल संचयन क्षमता",
+    "rainCollected": "प्रति व्यक्ति उपलब्धता",
+    "roofEfficiencyHeading": "आपकी छत कितनी प्रभावी है?",
+    "roofEfficiencyExcellent": "🏆 उत्कृष्ट! आपकी छत वर्षा जल को पकड़ने में माहिर है!",
+    "roofEfficiencyGood": "🌤 अच्छी कोशिश! थोड़ी सी सुधार से और बेहतर हो सकता है।",
+    "roofEfficiencyLow": "⚠️ केवल {efficiency}% पानी संग्रहीत… अपनी गटर और छत की जाँच करें!",
+    "efficiency": "प्रभावशीलता",
+    "rechargeStructureRecommendations": "पुनर्भरण संरचना",
+    "dimension": "आयाम",
+    "capacity": "क्षमता",
+    "bestFor": "सर्वोत्तम के लिए",
+    "learnMore": "और जानें",
+    "storageTankRecommendations": "भंडारण टैंक",
+    "requiredTankVolume": "आवश्यक टैंक मात्रा",
+    "numberOfDays": "बारिश के बिना पानी संग्रह के लिए दिन",
+    "tankUtilizationEfficiency": "टैंक उपयोग दक्षता",
+    "roiHeading": "आरओआई (लाभ प्राप्ति समय)",
+    "roiDescription": "आपकी प्रणाली लगभग {years} वर्षों में खुद को चुका देगी।",
+    "usageBreakdown": "उपयोग विवरण",
+    "environmentalImpact": "पर्यावरणीय प्रभाव",
+    "impactDescription": "छत वर्षा जल संचयन स्थापित करके आप बचा सकते हैं:",
+    "keyBenefits": "मुख्य लाभ",
+    "whatIfAnalysis": "क्या-यदि विश्लेषण",
+    "doubleRooftopArea": "छत क्षेत्र दोगुना करें",
+    "reduceDwellers": "निवासियों की संख्या आधी करें",
+    "addStorageTank": "भंडारण टैंक जोड़ें"
+  },
+  "sidebar": {
+    "assessment": "मूल्यांकन",
+    "insights": "अंतर्दृष्टि",
+    "install": "इंस्टॉल",
+    "community": "समुदाय",
+    "pro": "प्रो उपयोगकर्ता",
+    "pdf": "पीडीएफ रिपोर्ट"
+  },
+  "hero": {
+    "tagline": "एआई आधारित मूल्यांकन",
+    "titleLine1": "अपने रूफटॉप का आकलन करें",
+    "titleLine2": "वर्षा जल संचयन",
+    "titleLine3": "क्षमताओं का तुरंत विश्लेषण",
+    "description": "वर्षा जल संचयन और कृत्रिम रिचार्ज संरचनाओं का एआई-समर्थित, तुरंत ऑन-स्पॉट मूल्यांकन। टैंक के आदर्श आकार और रिचार्ज क्षमता की तुरंत गणना प्राप्त करें।",
+    "btnAssessment": "मुफ़्त मूल्यांकन आज़माएं",
+    "btnLearnMore": "और जानें",
+    "statSavings": "पानी के बिल में बचत",
+    "statLitersSaved": "प्रति वर्ष बचाए गए लीटर",
+    "statAssessmentTime": "मूल्यांकन समय"
+  },
+  "features": {
+    "sectionTag": "शक्तिशाली विशेषताएँ",
+    "titleLine1": "आपकी हर आवश्यकता",
+    "titleLine2": "स्मार्ट जल प्रबंधन के लिए",
+    "description": "हमारा एआई-संचालित प्लेटफ़ॉर्म वर्षा जल संचयन मूल्यांकन के लिए व्यापक उपकरण प्रदान करता है — प्रारंभिक माप से लेकर विशेषज्ञ परामर्श तक।",
+
+    "ctaMobile": "मोबाइल और वेब पर उपलब्ध",
+    "ctaSupport": "विशेषज्ञ सहायता शामिल",
+
+    "learnMore": "और जानें",
+
+    "featureItem": {
+      "title": "",
+      "subtitle": "",
+      "description": ""
+    }
+  }
+}

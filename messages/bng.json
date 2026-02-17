@@ -1,0 +1,73 @@
+{
+  "assessment": {
+    "dashboardOverview": "ড্যাশবোর্ড ওভারভিউ",
+    "rooftopArea": "ছাদের এলাকা",
+    "rooftopType": "ছাদের ধরণ",
+    "availableSpace": "উপলব্ধ স্থান",
+    "noOfDwellers": "বাসিন্দাদের সংখ্যা",
+    "rainwaterHarvestAnalysis": "বৃষ্টির জল সংগ্রহ বিশ্লেষণ",
+    "totalHarvestPotential": "মোট সংগ্রহ ক্ষমতা",
+    "rainCollected": "প্রতি ব্যক্তি উপলব্ধতা",
+    "roofEfficiencyHeading": "আপনার ছাদ কতটা কার্যকর?",
+    "roofEfficiencyExcellent": "🏆 চমৎকার! আপনার ছাদ বৃষ্টির জল ধরতে পারদর্শী!",
+    "roofEfficiencyGood": "🌤 ভালো কাজ! সামান্য পরিবর্তন আরও উন্নতি আনতে পারে।",
+    "roofEfficiencyLow": "⚠️ মাত্র {efficiency}% সংগ্রহ হয়েছে… আপনার ছাদ ও গটার পরীক্ষা করুন!",
+    "efficiency": "কার্যকারিতা",
+    "rechargeStructureRecommendations": "পুনঃভরন কাঠামো",
+    "dimension": "মাত্রা",
+    "capacity": "ক্ষমতা",
+    "bestFor": "সর্বোত্তম জন্য",
+    "learnMore": "আরও জানুন",
+    "storageTankRecommendations": "স্টোরেজ ট্যাঙ্ক",
+    "requiredTankVolume": "প্রয়োজনীয় ট্যাঙ্ক ভলিউম",
+    "numberOfDays": "বৃষ্টির ছাড়া পানি সংরক্ষণের দিন",
+    "tankUtilizationEfficiency": "ট্যাঙ্ক ব্যবহারের দক্ষতা",
+    "roiHeading": "আরওআই (পে ব্যাক সময়)",
+    "roiDescription": "আপনার সিস্টেম প্রায় {years} বছরের মধ্যে নিজেকে পরিশোধ করবে।",
+    "usageBreakdown": "ব্যবহারের বিশ্লেষণ",
+    "environmentalImpact": "পরিবেশগত প্রভাব",
+    "impactDescription": "ছাদ বৃষ্টির জল সংগ্রহ স্থাপন করে আপনি সঞ্চয় করতে পারেন:",
+    "keyBenefits": "মূল সুবিধা",
+    "whatIfAnalysis": "হ্যাপেনিং বিশ্লেষণ",
+    "doubleRooftopArea": "ছাদের এলাকা দ্বিগুণ করুন",
+    "reduceDwellers": "বাসিন্দাদের সংখ্যা অর্ধেক করুন",
+    "addStorageTank": "স্টোরেজ ট্যাঙ্ক যুক্ত করুন"
+  },
+  "sidebar": {
+    "assessment": "মূল্যায়ন",
+    "insights": "অন্তর্দৃষ্টি",
+    "install": "ইনস্টল",
+    "community": "কমিউনিটি",
+    "pro": "প্রো ব্যবহারকারী",
+    "pdf": "পিডিএফ রিপোর্ট"
+  },
+  "hero": {
+    "tagline": "এআই-চালিত মূল্যায়ন",
+    "titleLine1": "আপনার ছাদের মূল্যায়ন করুন",
+    "titleLine2": "বৃষ্টির জল সংরক্ষণ",
+    "titleLine3": "সম্ভাবনা তাৎক্ষণিকভাবে জানুন",
+    "description": "বৃষ্টির জল সংগ্রহ এবং কৃত্রিম রিচার্জ স্ট্রাকচারের এআই-চালিত তাৎক্ষণিক মূল্যায়ন। ট্যাঙ্কের উপযুক্ত আকার এবং রিচার্জ ক্ষমতার দ্রুত হিসাব পান।",
+    "btnAssessment": "ফ্রি অ্যাসেসমেন্ট করুন",
+    "btnLearnMore": "আরও জানুন",
+    "statSavings": "জল বিল সাশ্রয়",
+    "statLitersSaved": "প্রতি বছরে সঞ্চিত লিটার",
+    "statAssessmentTime": "মূল্যায়ন সময়"
+  },
+  "features": {
+    "sectionTag": "শক্তিশালী ফিচারসমূহ",
+    "titleLine1": "আপনার সব প্রয়োজন",
+    "titleLine2": "স্মার্ট ওয়াটার ম্যানেজমেন্টের জন্য",
+    "description": "আমাদের এআই-চালিত প্ল্যাটফর্ম ছাদের বৃষ্টির জল সংগ্রহ মূল্যায়নের জন্য সম্পূর্ণ সরঞ্জাম সরবরাহ করে — প্রাথমিক পরিমাপ থেকে বিশেষজ্ঞ পরামর্শ পর্যন্ত।",
+
+    "ctaMobile": "মোবাইল এবং ওয়েবে উপলব্ধ",
+    "ctaSupport": "বিশেষজ্ঞ সহায়তা অন্তর্ভুক্ত",
+
+    "learnMore": "আরও জানুন",
+
+    "featureItem": {
+      "title": "",
+      "subtitle": "",
+      "description": ""
+    }
+  }
+}
